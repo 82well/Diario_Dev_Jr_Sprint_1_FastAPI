@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square&logo=amazondynamodb&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-8 testes-brightgreen?style=flat-square&logo=pytest&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-8%20testes-brightgreen?style=flat-square&logo=pytest&logoColor=white)
 ![Status](https://img.shields.io/badge/Sprint_01-concluída-teal?style=flat-square)
 
 > Projeto desenvolvido como parte do **Diário de um Dev Jr** — aprendizado estruturado em sprints, do jeito que times reais de tecnologia trabalham.
