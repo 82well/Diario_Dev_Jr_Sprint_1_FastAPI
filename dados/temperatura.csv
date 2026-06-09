@@ -1,0 +1,6 @@
+id,sensor,valor,unidade,timestamp
+1,sensor_01,23.5,celsius,2025-06-01T08:00:00
+2,sensor_02,24.1,celsius,2025-06-01T08:05:00
+3,sensor_01,23.8,celsius,2025-06-01T08:10:00
+4,sensor_03,22.9,celsius,2025-06-01T08:15:00
+5,sensor_02,24.5,celsius,2025-06-01T08:20:00
